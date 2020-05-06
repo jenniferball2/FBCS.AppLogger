@@ -1,9 +1,0 @@
-C:\Users\vhahacballje0\source\repos\FBCS.AppLogger\FBCSAppLogger\FBCSAppLogger\bin\Debug\FBCSAppLogger.deps.json
-C:\Users\vhahacballje0\source\repos\FBCS.AppLogger\FBCSAppLogger\FBCSAppLogger\bin\Debug\FBCSAppLogger.dll
-C:\Users\vhahacballje0\source\repos\FBCS.AppLogger\FBCSAppLogger\FBCSAppLogger\bin\Debug\FBCSAppLogger.pdb
-C:\Users\vhahacballje0\source\repos\FBCS.AppLogger\FBCSAppLogger\FBCSAppLogger\obj\Debug\FBCSAppLogger.AssemblyInfoInputs.cache
-C:\Users\vhahacballje0\source\repos\FBCS.AppLogger\FBCSAppLogger\FBCSAppLogger\obj\Debug\FBCSAppLogger.AssemblyInfo.cs
-C:\Users\vhahacballje0\source\repos\FBCS.AppLogger\FBCSAppLogger\FBCSAppLogger\obj\Debug\FBCSAppLogger.dll
-C:\Users\vhahacballje0\source\repos\FBCS.AppLogger\FBCSAppLogger\FBCSAppLogger\obj\Debug\FBCSAppLogger.pdb
-C:\Users\vhahacballje0\source\repos\FBCS.AppLogger\FBCSAppLogger\FBCSAppLogger\obj\Debug\FBCSAppLogger.csproj.CoreCompileInputs.cache
-C:\Users\vhahacballje0\source\repos\FBCS.AppLogger\FBCSAppLogger\FBCSAppLogger\obj\Debug\FBCSAppLogger.csprojAssemblyReference.cache
