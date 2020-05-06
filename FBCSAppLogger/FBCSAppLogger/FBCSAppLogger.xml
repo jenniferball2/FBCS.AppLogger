@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>FBCSAppLogger</name>
+    </assembly>
+    <members>
+        <member name="T:FBCSAppLogger.Class1">
+            <Summary>
+             
+            </Summary>
+        </member>
+        <member name="M:FBCSAppLogger.Class1.Log(System.String)">
+            <Summary>
+             
+            </Summary> 
+        </member>
+    </members>
+</doc>

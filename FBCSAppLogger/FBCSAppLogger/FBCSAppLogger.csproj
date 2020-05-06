@@ -1,0 +1,38 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <ApplicationIcon>Autobot.ico.ico</ApplicationIcon>
+    <PackageIcon>Autobot (2).PNG</PackageIcon>
+    <RepositoryUrl>http://vaww.tfs.tsm.occ.med.va.gov:8080/tfs/TSM/FBCS/_git/FBCS.AppLogger</RepositoryUrl>
+    <RepositoryType>Git</RepositoryType>
+    <PackageTags>Logging, Logger, Log, Text</PackageTags>
+    <PackageReleaseNotes>This is Version 1.0.0 Released Created on 05-06-2020 by Jennifer Ball</PackageReleaseNotes>
+    <Description>This is a test/demo application logging tester</Description>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageProjectUrl>http://vaww.tfs.tsm.occ.med.va.gov:8080/tfs/TSM/FBCS/</PackageProjectUrl>
+    <SignAssembly>true</SignAssembly>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <Optimize>true</Optimize>
+    <DocumentationFile>bin$(Configuration)$(TargetFramework)$(AssemblyName).xml</DocumentationFile>
+    <OutputPath>bin\$(Configuration)\$(TargetFramework)\$(AssemblyName).xml</OutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+    <None Include="..\..\..\..\..\Pictures\Autobot (2).PNG">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="BuildReports\" />
+  </ItemGroup>
+
+</Project>

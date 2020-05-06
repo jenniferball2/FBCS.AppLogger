@@ -1,0 +1,10 @@
+C:\Users\vhahacballje0\source\repos\FBCS.AppLogger\FBCSAppLogger\FBCSAppLogger\obj\Debug\netcoreapp3.1\FBCSAppLogger.csproj.CoreCompileInputs.cache
+C:\Users\vhahacballje0\source\repos\FBCS.AppLogger\FBCSAppLogger\FBCSAppLogger\obj\Debug\netcoreapp3.1\FBCSAppLogger.AssemblyInfoInputs.cache
+C:\Users\vhahacballje0\source\repos\FBCS.AppLogger\FBCSAppLogger\FBCSAppLogger\obj\Debug\netcoreapp3.1\FBCSAppLogger.AssemblyInfo.cs
+C:\Users\vhahacballje0\source\repos\FBCS.AppLogger\FBCSAppLogger\FBCSAppLogger\bin\Debug\netcoreapp3.1\FBCSAppLogger.deps.json
+C:\Users\vhahacballje0\source\repos\FBCS.AppLogger\FBCSAppLogger\FBCSAppLogger\bin\Debug\netcoreapp3.1\FBCSAppLogger.dll
+C:\Users\vhahacballje0\source\repos\FBCS.AppLogger\FBCSAppLogger\FBCSAppLogger\bin\Debug\netcoreapp3.1\FBCSAppLogger.pdb
+C:\Users\vhahacballje0\source\repos\FBCS.AppLogger\FBCSAppLogger\FBCSAppLogger\bin\Debug\netcoreapp3.1\FBCSAppLogger.xml
+C:\Users\vhahacballje0\source\repos\FBCS.AppLogger\FBCSAppLogger\FBCSAppLogger\obj\Debug\netcoreapp3.1\FBCSAppLogger.dll
+C:\Users\vhahacballje0\source\repos\FBCS.AppLogger\FBCSAppLogger\FBCSAppLogger\obj\Debug\netcoreapp3.1\FBCSAppLogger.pdb
+C:\Users\vhahacballje0\source\repos\FBCS.AppLogger\FBCSAppLogger\FBCSAppLogger\obj\Debug\netcoreapp3.1\FBCSAppLogger.csprojAssemblyReference.cache
