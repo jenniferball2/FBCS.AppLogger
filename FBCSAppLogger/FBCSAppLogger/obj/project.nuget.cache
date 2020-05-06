@@ -1,8 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "n1O1Um4LTgl8mQ2F8dulE0qwbDTBAxfmO5JqV06fOtAuTDKI0NbJSYuP6tM/EIoAXuQUYcKaCGvw+VhHfPNn1g==",
+  "dgSpecHash": "c9lKe3hOn6G1za0+BD4eZ3hgftjE/SYc27sFUcKWc/wwTwacXRao01k7Ktmr+f9VycDe7l+OFB+/DtVTMKk/+A==",
   "success": true,
   "projectFilePath": "C:\\Users\\vhahacballje0\\source\\repos\\FBCS.AppLogger\\FBCSAppLogger\\FBCSAppLogger\\FBCSAppLogger.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\vhahacballje0\\.nuget\\packages\\microsoft.codeanalysis.fxcopanalyzers\\3.0.0\\microsoft.codeanalysis.fxcopanalyzers.3.0.0.nupkg.sha512",
+    "C:\\Users\\vhahacballje0\\.nuget\\packages\\microsoft.codeanalysis.versioncheckanalyzer\\3.0.0\\microsoft.codeanalysis.versioncheckanalyzer.3.0.0.nupkg.sha512",
+    "C:\\Users\\vhahacballje0\\.nuget\\packages\\microsoft.codequality.analyzers\\3.0.0\\microsoft.codequality.analyzers.3.0.0.nupkg.sha512",
+    "C:\\Users\\vhahacballje0\\.nuget\\packages\\microsoft.netcore.analyzers\\3.0.0\\microsoft.netcore.analyzers.3.0.0.nupkg.sha512",
+    "C:\\Users\\vhahacballje0\\.nuget\\packages\\microsoft.netframework.analyzers\\3.0.0\\microsoft.netframework.analyzers.3.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

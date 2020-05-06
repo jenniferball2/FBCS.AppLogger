@@ -14,17 +14,17 @@
     <SignAssembly>true</SignAssembly>
   </PropertyGroup>
 
+  <PropertyGroup>
+    <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
+    <AppendRuntimeIdentifierToOutputPath>false</AppendRuntimeIdentifierToOutputPath>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+  </PropertyGroup>
+
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
     <Optimize>true</Optimize>
-    <DocumentationFile>bin$(Configuration)$(TargetFramework)$(AssemblyName).xml</DocumentationFile>
-    <OutputPath>bin\$(Configuration)\$(TargetFramework)\$(AssemblyName).xml</OutputPath>
   </PropertyGroup>
 
   <ItemGroup>
-    <None Include="..">
-      <Pack>True</Pack>
-      <PackagePath></PackagePath>
-    </None>
     <None Include="..\..\..\..\..\Pictures\Autobot (2).PNG">
       <Pack>True</Pack>
       <PackagePath></PackagePath>
@@ -33,6 +33,13 @@
 
   <ItemGroup>
     <Folder Include="BuildReports\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.CodeAnalysis.FxCopAnalyzers" Version="3.0.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
   </ItemGroup>
 
 </Project>
